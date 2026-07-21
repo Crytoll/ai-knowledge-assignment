@@ -1,0 +1,50 @@
+{
+  "ali_tech": {
+    "name": "阿里技术",
+    "__biz": "MzIzOTU0NTQ0MA==",
+    "wechat_id": "",
+    "description": "阿里官方技术号"
+  },
+  "dewutec": {
+    "name": "得物技术",
+    "__biz": "MzkxNTE3ODU0NA==",
+    "wechat_id": "",
+    "description": "得物技术官方号"
+  },
+  "kuaishou_tech": {
+    "name": "快手技术",
+    "__biz": "MzAwMDU1MTE1OQ==",
+    "wechat_id": "",
+    "description": "快手技术团队官方号"
+  },
+  "infoq": {
+    "name": "InfoQ",
+    "__biz": "MjM5MDE0Mjc4MA==",
+    "wechat_id": "",
+    "description": "InfoQ 中文站"
+  },
+  "jiqizhixin": {
+    "name": "机器之心",
+    "__biz": "MzA3MzI4MjgzMw==",
+    "wechat_id": "",
+    "description": "机器之心官方号"
+  },
+  "qianyan_keji": {
+    "name": "关注前沿科技",
+    "__biz": "MzIzNjc1NzUzMw==",
+    "wechat_id": "",
+    "description": "关注前沿科技——AI 与科学发现"
+  },
+  "ant_tech": {
+    "name": "蚂蚁技术",
+    "__biz": "MzI0Nzc3MTQyMw==",
+    "wechat_id": "Ant-Techfin",
+    "description": "蚂蚁集团技术官方号"
+  },
+  "tencent_cloud_dev": {
+    "name": "腾讯云开发者",
+    "__biz": "",
+    "wechat_id": "",
+    "description": "腾讯云官方开发者号"
+  }
+}
